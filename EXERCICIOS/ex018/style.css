@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Covered By Your Grace', cursive;
+    color: blue;
+    font-weight: lighter;
+    font-size: 3em;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    Font: bolder 3em 'Tangerine', cursive, sans-serif;
+    color: blue;
+}
+
+p{
+    background-color: rgba(59, 97, 83, 0.541);
+    max-width: 1080px;
+
+    width: auto;
+    text-align: justify;
+    margin: auto;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}

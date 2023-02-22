@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    text-indent: 20px;
+    text-align: justify;
+}
+
+#principal{
+    color: bisque;
+    background-color: rgba(128, 115, 99, 0.527);
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    padding: 2px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+.basic{
+    background-color: rgba(224, 226, 123, 0.377);
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.inter{
+    background-color: rgba(123, 226, 140, 0.377);
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.avan{
+    background-color: rgba(226, 123, 123, 0.377);
+    border-radius: 10px;   
+    padding: 3px;
+}

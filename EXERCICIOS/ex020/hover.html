@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Hover</title>
+    <style>
+        h1{
+            text-align: center;
+            background-color: rgba(145, 73, 47, 0.514);
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+            box-shadow: 5px 5px 5px black;
+        }
+
+        body{
+            font-family: monospace;
+            background-color: coral;
+        }
+
+        div:hover{
+            color: red;
+        }
+
+        div > p{
+            display: none;
+        }
+
+        div:hover > p{
+            display: block;
+            color: white;
+            background-color: red;
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplo de Hover</h1>
+    <p>Passe o mouse sobre o texto</p>
+    <div>
+        Passe o mouse aqui para abrir o menu
+        <p>TEXTO ESCONDIDO...</p>
+        <p>FUNCIONA PARA QUANTOS PARAGRAFOS?</p>
+    </div>
+    <p>Fim do Exemplo</p>
+</body>
+</html>

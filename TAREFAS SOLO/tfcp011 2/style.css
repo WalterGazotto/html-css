@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+main{
+    background-image: radial-gradient(circle, #261A0B, #8C7C68);
+    width: 450px;
+    padding: 2px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #F2E5D5;
+}
+
+body{ 
+    background-image: radial-gradient(circle,#8C7C68, #261A0B)
+}
+p{
+    text-align: center;
+}
+h1{
+    color: #F2E5D5;
+    text-align: center;
+    text-shadow: 2px 2px 3px #857e759d;
+}

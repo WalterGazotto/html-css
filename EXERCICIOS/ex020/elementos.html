@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>elementos</title>
+    <style>
+        body{
+            font-family: arial, verdana, serif;
+            background-color:#ffebcd;
+        }
+
+        h1{
+            text-align: center;
+            background-color: #928777a8;
+            padding: 3px;
+            border-radius: 10px;
+            box-shadow: 3px 3px 8px lightgrey;
+        }
+
+        a{
+            color: darkviolet;
+            text-decoration: none;
+        }
+
+        a:active{
+            color: yellow;
+        }
+
+        a:hover{
+            text-decoration: underline;
+        }
+
+        a::after {
+            content:  '↞';
+            color: black;    
+        }
+
+        a::before{
+            content: '↠';
+            color: black;
+        }
+
+        ul {
+            text-align-last: center;
+            list-style-position: inside;
+        }
+
+        div{
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Links de acesso</h1>
+    <ul>
+        <div>
+            <li><a href="https://gustavoguanabara.github.io/" target="_blank" class="especial">  Github  </a></li>
+            <li><a href="https://youtube.com" target="_blank">  Youtube  </a></li>
+            <li><a href="https://www.instagram.com/_waltergazotto/" target="_blank">  Instagram  </a></li>
+        </div>
+    </ul>
+</body>
+</html>

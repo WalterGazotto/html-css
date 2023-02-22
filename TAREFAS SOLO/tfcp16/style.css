@@ -1,0 +1,128 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "idroid";
+    src: url(fontes/idroid.otf);
+
+
+}
+
+body{
+    background-color: rgba(93, 255, 174, 0.904);
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-image: radial-gradient(circle, rgba(111, 219, 107, 0.747), rgba(0, 128, 0, 0.705), rgb(0, 87, 0));
+    margin: 0px;
+    padding: 5px;
+    color: white;
+}
+
+header > main{
+    text-align: center;
+}
+
+header > p{
+    text-align: center;
+    
+}
+
+nav{
+    display: inline;
+}
+
+nav > a{
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+}
+
+article{
+    height: auto;
+    width: 60%;
+    background-color: white;
+    margin: 1px auto 5px auto;
+    padding: 1px;
+    border-radius: 0px 0px 5px 5px;
+}
+
+article > h1{
+    font-family: idroid;
+    font-size: 2em;
+    color: rgb(0, 128, 0);
+    padding: 5px;
+}
+
+article > h2{
+    font-family: idroid;
+    color: rgb(0, 128, 0);
+    background-color: rgba(1, 78, 1, 0.247);
+    padding: 5px;
+}
+
+article > p{
+    text-indent: 20px;
+    text-align: justify;
+    padding: 5px;
+}
+
+a{
+    color: rgb(0, 128, 0);
+    text-decoration: none;
+}
+
+article > picture{
+    margin: auto;
+    padding: 5px auto 5px auto;
+}
+
+
+.bug{
+    text-align: center;
+}
+
+strong{
+    color: rgb(0, 128, 0);
+}
+
+.aprender{
+    background-color:  rgba(63, 167, 115, 0.432);
+    padding: 1px;
+    margin: 10px auto 10px auto;
+    border-radius: 10px;
+}
+
+.aprender > h3{
+    background-color: rgb(0, 128, 0);
+    color: white;
+    margin: 0px;
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.aprender > p {
+    padding: 5px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.video{
+    text-align: center;
+    background-color: green;
+    padding: 10px;
+    height: auto;
+    width: auto;
+    
+}
+
+ul {
+    text-decoration: underline;    
+}
