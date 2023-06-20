@@ -6,20 +6,20 @@ Desafios completos:
  <ul>
  <li><a href="https://waltergazotto.github.io/html-css/desafios/desafio001/index.html" target="_blank">Desafio 001</a></li>
 
-<a href="https://waltergazotto.github.io/html-css/desafios/desafio002/index.html" target="_blank">Desafio 002</a>
+<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio002/index.html" target="_blank">Desafio 002</a></li>
 
-<a href="https://waltergazotto.github.io/html-css/desafios/desafio003/index.html" target="_blank">Desafio 003</a>
+<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio003/index.html" target="_blank">Desafio 003</a></li>
 
-<a href="https://waltergazotto.github.io/html-css/desafios/desafio004/index.html" target="_blank">Desafio 004</a>
+<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio004/index.html" target="_blank">Desafio 004</a></li>
 
-<a href="https://waltergazotto.github.io/html-css/desafios/desafio005/index.html" target="_blank">Desafio 005</a>
+<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio005/index.html" target="_blank">Desafio 005</a></li>
 
-<a href="https://waltergazotto.github.io/html-css/desafios/desafio006/index.html" target="_blank">Desafio 006</a>
+<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio006/index.html" target="_blank">Desafio 006</a></li>
 
-<a href="https://waltergazotto.github.io/html-css/desafios/desafio007/index.html" target="_blank">Desafio 007</a>
+<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio007/index.html" target="_blank">Desafio 007</a></li>
 
-<a href="https://waltergazotto.github.io/html-css/desafios/desafio008/index.html" target="_blank">Desafio 008</a>
+<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio008/index.html" target="_blank">Desafio 008</a></li>
 
-<a href="https://waltergazotto.github.io/html-css/desafios/desafio009/index.html" target="_blank">Desafio 009</a>
+<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio009/index.html" target="_blank">Desafio 009</a></li>
 
-<a href="https://waltergazotto.github.io/html-css/desafios/desafio010/index.html" target="_blank">Desafio 010</a></ul>
+<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio010/index.html" target="_blank">Desafio 010</a></ul></li>
