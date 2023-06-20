@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 7</title>
+</head>
+<body>
+    <h1>Imagem flexível</h1>
+    <p>A cada tamanho de janela uma imagem surgira !</p>
+    <picture>
+        <source media="(max-width: 640px)" srcset="imagens/azul.png" width="320px" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/szicor.png" width="640px" type="image/png">
+        <img width="1000px" src="imagens/fundo.png" alt="fundo">
+    </picture>
+</body>
+</html>

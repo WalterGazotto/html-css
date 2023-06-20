@@ -1,0 +1,169 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'android';
+    src: url(fontes/idroid.otf) format('opentype');
+}
+
+* {  
+    margin: 0px;
+    padding: 0px;
+}
+
+:root {
+    --cor1: #256136;
+    --cor2: #3DA159;
+    --cor3: #5AED84;
+    --cor4: #6DF0D9;
+
+    --fonte-padrao: arial, verdana, helvetica, sans-serif;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: var(--cor3);
+}
+
+header {
+    color: white;
+    height: 10%;
+    background-image: linear-gradient(to top,#256136, #5AED84);
+}
+
+header> h1 {
+    text-align: center;
+    padding: 20px;
+    font-variant: small-caps;
+    font-size: 3em;
+    font-weight: bolder;
+}
+
+header > p {
+    text-align: center;
+    padding: 10px;
+}
+
+nav > a {
+    display: inline-block;
+    padding: 10px 10px 0px 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: white;
+    
+}
+nav > a > p:hover {
+    background-color: #12301b;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+    padding: 10px;
+}
+
+main{
+    height: 100%;
+    width: 87%;
+    background-color: white;
+    margin: auto;
+    border-radius: 0px 0px 10px 10px;
+}
+
+h2{
+    color: var(--cor1);
+    font-family: 'android';
+    padding: 10px;
+}
+
+main > p > a {
+    text-decoration: none;
+    color: var(--cor2);
+    
+}
+
+.maior{
+    font-size: 1.5em;
+    padding-top: 30px;
+}
+
+
+main > p {
+    margin: 10px;
+    text-indent: 20px;
+}
+
+
+.sub {
+    background-image: linear-gradient(to right,#5AED84, white);
+    padding: 2px;
+    margin: 10px;
+}
+
+picture > img {
+    display: block;
+    margin: auto;
+}
+
+img.fora {
+    display: block;
+    margin: auto;
+}
+
+div.video {
+    background-color: var(--cor1);
+    margin: 20px 0px 20px 0px;
+    position: relative;
+    padding: 90px;
+    padding-bottom: 28%;
+}
+
+div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
+section {
+    background-color: rgba(153, 255, 221, 0.521);
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px black;
+}
+
+section > h3 {
+    color: white;
+    padding: 20px;
+    background-color: var(--cor2);
+    border-radius: 10px 10px 0px 0px ;
+}
+
+section > p {
+    padding: 10px;
+    text-indent: 20px;
+}
+
+section > p > a {
+    text-decoration: none;
+    color: var(--cor2);
+
+}
+
+section > ul {
+    list-style-position: inside;
+    columns: 2;
+    padding-left: 10px;
+}
+
+p.final {
+    padding-bottom: 30px;
+}
+
+footer {
+    background-color: #256136;
+    text-align: center;
+    color: white;
+    padding: 8px;
+}
+footer > a {
+    text-decoration: none;
+    color: white;
+}
