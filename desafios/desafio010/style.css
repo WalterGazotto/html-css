@@ -101,10 +101,10 @@ main > p {
     margin: 10px;
 }
 
-picture > img {
+main picture img {
     display: block;
     margin: auto;
-    min-width: 200px;
+    min-width: 50px;
 }
 
 img.fora {
