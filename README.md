@@ -1,5 +1,4 @@
 # html-css
-theme: minima
  Curso de HTML5 e CSS3 estudonauta
 
 Desafios completos: 
