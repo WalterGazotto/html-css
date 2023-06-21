@@ -22,4 +22,5 @@ Desafios completos:
 
 <li><a href="https://waltergazotto.github.io/html-css/desafios/desafio009/index.html" target="_blank">Desafio 009</a></li>
 
-<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio010/index.html" target="_blank">Desafio 010</a></ul></li>
+<li><a href="https://waltergazotto.github.io/html-css/desafios/desafio010/index.html" target="_blank">Desafio 010</a></li>
+</ul>
