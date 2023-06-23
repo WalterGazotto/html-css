@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    height: 98vh;
+    background-image: url(imagens/wallpaper004.jpg);
+    background-color: lightgrey;
+    background-repeat: no-repeat;
+    background-size: 100vw 200px;
+    
+}
+
+header h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 4em;
+}
+
+header p {
+    width: 483px;
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+}
+
+nav {
+    padding-top: 9px;
+}
+
+nav a {
+    color: lightgray;
+    text-decoration: none;
+    padding: 5px;
+    background-color: darkgray;
+    border-radius: 5px;
+}
+
+main {
+    width: 80%;
+    background-color: white;
+    margin: 5px auto 0px auto;
+}
+
+main h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+main p {
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 1.5em;
+    padding: 20px 20px 2px 20px;
+}
+
+main h2 {
+    text-align: center;
+    background-image: radial-gradient( circle, white, lightgray);
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+main img {
+    display: block;
+    margin: auto;
+    width: 90%;
+    max-height: 420px;   
+}
+
+main div.video{
+    height: 500px;
+    background-image: radial-gradient(circle, white, lightgray);
+    position: relative;
+    padding: 10px;
+}
+
+main div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
+footer {
+    background-color: darkgray;
+    color: white;
+    padding: 3px;
+    text-align: center;
+}
