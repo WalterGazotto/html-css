@@ -17,11 +17,11 @@ body {
 header h1 {
     text-align: center;
     margin-top: 20px;
-    font-size: 4em;
+    font-size: 3.5em;
 }
 
 header p {
-    
+    max-width: 483px;
     text-align: center;
     display: block;
     margin: 20px auto;
@@ -29,6 +29,7 @@ header p {
 
 nav {
     padding-top: 9px;
+    margin-bottom: 5px;
 }
 
 nav a {
@@ -40,9 +41,10 @@ nav a {
 }
 
 main {
+
     width: 80%;
     background-color: white;
-    margin: 5px auto 0px auto;
+    margin: auto auto 0px auto;
 }
 
 main h1 {
