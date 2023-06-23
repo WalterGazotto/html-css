@@ -18,6 +18,9 @@ Desafios completos:
 
 <li><a href="https://waltergazotto.github.io/html-css/desafios/desafio007/index.html" target="_blank">Desafio 007</a></li>
 
+Alguns Exercícios :
+<li><a href="https://waltergazotto.github.io/html-css/exercicios/ex022/fundo006.html" targer="_blank">Execício 22</li>
+
 <li><a href="https://waltergazotto.github.io/html-css/desafios/desafio008/index.html" target="_blank">Desafio 008</a></li>
 
 <li><a href="https://waltergazotto.github.io/html-css/desafios/desafio009/index.html" target="_blank">Desafio 009</a></li>
