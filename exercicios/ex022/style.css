@@ -18,6 +18,7 @@ header h1 {
     text-align: center;
     margin-top: 20px;
     font-size: 3em;
+    text-shadow: 0px 0px 3px black;
 }
 
 header p {
@@ -25,26 +26,29 @@ header p {
     text-align: center;
     display: block;
     margin: 20px auto;
+    text-shadow: 0px 0px 2px black;
 }
 
 nav {
     padding-top: 26px;
     margin-bottom: 6px;
+    
 }
 
 nav a {
-    color: lightgray;
+    color: black;
     text-decoration: none;
     padding: 5px;
     background-color: darkgray;
     border-radius: 5px;
+    font-weight: bolder;
 }
 
 main {
-
     width: 80%;
     background-color: white;
-    margin: auto auto 0px auto;
+    margin: auto auto 20px auto;
+    box-shadow: 2px 2px 7px black;
 }
 
 main h1 {
