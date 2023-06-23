@@ -22,7 +22,7 @@ header h1 {
 }
 
 header p {
-    max-width: 483px;
+    max-width: 320px;
     text-align: center;
     display: block;
     margin: 20px auto;
@@ -30,7 +30,7 @@ header p {
 }
 
 nav {
-    padding-top: 26px;
+    padding-top: 8px;
     margin-bottom: 6px;
     
 }
