@@ -26,4 +26,4 @@ Desafios completos:
 </ul>
 
 Alguns Exercícios :
-<li><a href="https://waltergazotto.github.io/html-css/exercicios/ex022/fundo006.html" targer="_blank">Execício 22</li>
+<li><a href="https://waltergazotto.github.io/html-css/exercicios/ex022/fundo006.html" targer="_blank">Execício 22</a></li>
