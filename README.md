@@ -3,7 +3,7 @@
 
 Desafios completos: 
 
- <ul>
+ <ul columns="2">
  <li><a href="https://waltergazotto.github.io/html-css/desafios/desafio001/index.html" target="_blank">Desafio 001</a></li>
 
 <li><a href="https://waltergazotto.github.io/html-css/desafios/desafio002/index.html" target="_blank">Desafio 002</a></li>
