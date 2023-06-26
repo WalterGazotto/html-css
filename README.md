@@ -25,7 +25,7 @@ Desafios completos:
 <li><a href="https://waltergazotto.github.io/html-css/desafios/desafio010/index.html" target="_blank">Desafio 010</a></li>
 
 <li><a href="https://waltergazotto.github.io/html-css/desafios/desafio011/index.html" target="_blank" rel="next">Desafio 011</a></li>
-
+<br>
 Projetos :
 <li><a href="https://waltergazotto.github.io/projeto-android/" target="_blank">ANDROID</a></li>
 
