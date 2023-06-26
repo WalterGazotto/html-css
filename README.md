@@ -27,4 +27,6 @@ Desafios completos:
 <li><a href="https://waltergazotto.github.io/html-css/desafios/desafio011/index.html" target="_blank" rel="next">Desafio 011</a></li>
 
 Projetos :
+<li><a href="https://waltergazotto.github.io/projeto-android/" target="_blank">ANDROID</a></li>
+
 <li><a href="https://waltergazotto.github.io/projeto-cordel/" targer="_blank">CORDEL</a></li>
