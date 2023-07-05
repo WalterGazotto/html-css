@@ -7,7 +7,7 @@
 }
 
 html, body {
-    background-color:#5C4F1C;
+    background-color:#312a0f;
 }
 
 header {
@@ -50,8 +50,9 @@ menu > ul > li > a {
     text-decoration: none;
     color: white;
     padding: 10px;
-    background-color: #5C5437;
+    background-color: #3b3624;
     border-top: 2px solid #5C4F1C;
+    border-radius: 5px;
 }
 
 menu > ul > li > a:hover {
