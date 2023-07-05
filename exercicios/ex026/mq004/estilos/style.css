@@ -12,8 +12,8 @@ html {
 }
 
 body {
-    background: black url(../imagens/back-phone.jpg) center center no-repeat;
-    background-size: contain;
+    background: black url(../imagens/back-phone.jpg) center center no-repeat ;
+    background-size: cover;
 }
 
 main {
