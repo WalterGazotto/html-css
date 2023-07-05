@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Quary</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="estilos/style.css">
+</head>
+<body>
+    <header>
+        <h1>Conteudos para Estudo</h1>
+        <span id="burguer" class="material-icons" onclick="clickMenu()">menu</span>
+        <menu id="itens">
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+                <li><a href="#">Link 4</a></li>
+                <li><a href="#">Link 5</a></li>
+            </ul>
+        </menu>
+    </header>
+    <main>
+        <article>
+            <h1>Sequencia de Fibonacci</h1>
+            <p>Sequência de Fibonacci é a sequência numérica proposta pelo matemático Leonardo Pisa, mais conhecido como Fibonacci:</p>
+            <p><strong>1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...</strong></p>
+            <p>Foi a partir de um problema criado por ele que o mesmo detectou a existência de uma regularidade matemática.</p>
+            <p>Trata-se do exemplo clássico dos coelhos, em que Fibonacci descreve o crescimento de uma população desses animais.</p>
+            <p>A sequência é definida mediante a seguinte fórmula:</p>
+            <p>Fn = Fn - 1 + Fn - 2</p>
+            <P>Assim, começando pelo 1, essa sequência é formada somando cada numeral com o numeral que o antecede. No caso do 1, repete-se esse numeral e soma-se, ou seja, 1 + 1 = 2.</P>
+            <P>De seguida soma-se o resultado com o numeral que o antecede, ou seja, 2 + 1 = 3 e assim sucessivamente, numa sequência infinita:</P>
+            <P><br>
+                3 + 2 = 5 <br>
+                5 + 3 = 8 <br>
+                8 + 5 = 13 <br>
+                13 + 8 = 21 <br>
+                21 + 13 = 34 <br>
+                34 + 21 = 55 <br>
+                55 + 34 = 89
+            </P>
+            <h2>Retângulo de Ouro</h2>
+            <p>A partir dessa sequência, pode ser construído um retângulo, que é chamado de <strong>Retângulo de Ouro</strong>.</p>
+            <img src="imagens/retangulo-de-ouro.jpeg" alt="retangulo de ouro">
+            <p>Ao desenhar um arco dentro desse retângulo, obtemos, por sua vez, a <strong>Espiral de Fibonacci</strong>.</p>
+            <img src="imagens/espiral-de-fibonacci.jpeg" alt="espiral de fibonacci">
+            <p>A verdade é que a sequência de Fibonacci pode ser percebida na natureza. São exemplos disso as folhas das árvores, as pétalas das rosas, os frutos como o abacaxi, as conchas espiraladas dos caracóis ou as galáxias.</p>
+            <p>Muito interessante é o fato de que através do coeficiente de um número com o seu antecessor, obtém-se a constante com o valor aproximado de 1,618.</p>
+            <p>Ela é aplicada em análises financeiras e na informática e foi utilizada por Da Vinci, que chamou a sequência de Divina Proporção, para fazer desenhos perfeitos.</p>
+            <p>Leonardo Pisa (1175-1240) deu essa sequência a conhecer no seu livro Liber Abaci (Livro do Ábaco, em português), o qual data de 1202. Apesar disso, os indianos já haviam descrito essa sequência.</p>
+        
+        </article>
+    </main>
+
+    <script>
+        function clickMenu() {
+            if (itens.style.display == 'block') {
+                itens.style.display = 'none'
+            } else {
+                itens.style.display = 'block'
+            }
+        }
+    </script>
+</body>
+</html>
