@@ -104,7 +104,7 @@ main > p {
 main picture img {
     display: block;
     margin: auto;
-    min-width: 50px;
+    width: 100%;
 }
 
 img.fora {
